@@ -1,0 +1,3 @@
+# Roadtrip
+
+In a world where all cars are electric, cars must recharge by going to different charging stations. However, each charging station has different voltages and capacities that affect how far and fast a car can go after charging at that station. Some stations can let a car travel at faster or slower speeds, and some stations have batteries that last over longer distances than others. The car can travel at a certain speed as long as its battery does not run out. This solver outputs the shortest time it takes to get from the start to the end node after deciding which charging stations the car should stop at. 
